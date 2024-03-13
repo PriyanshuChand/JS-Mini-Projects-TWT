@@ -15,4 +15,6 @@ function check()
     else {
         alert(' is not Paliondrome');
     }
+
+    input.value = '';
 }
